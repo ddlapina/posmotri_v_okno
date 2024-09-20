@@ -23,9 +23,8 @@ html {
   place-items: center;
   inline-size: 1200px;
   block-size: 100%;
-  min-height: 100vh;
   margin: auto;
-  padding: 133px 30px;
+  padding: 10px 10px;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
